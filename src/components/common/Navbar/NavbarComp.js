@@ -6,7 +6,7 @@ import logo from "./../../../assests/logo.svg";
 import "./../../../styles/Navbarcompcss.css";
 import { HiOutlineMail } from "react-icons/hi";
 import { IoIosCall } from "react-icons/io";
-function Navbarcomp() {
+function NavbarComp() {
   return (
     <Navbar
       expand="lg"
@@ -63,4 +63,4 @@ function Navbarcomp() {
   );
 }
 
-export default Navbarcomp;
+export default NavbarComp;
